@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Vikas-jangid
-- 👀 I’m interested in Web Technologies.
-- 🌱 I’m currently learning MERN 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me vikas.jangid@infobeans.com
+- 👋 Hi, I’m Vikas Jangid from Infobeans Technologies Limited.
 
 <!---
 Vikas-jangid/Vikas-jangid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
